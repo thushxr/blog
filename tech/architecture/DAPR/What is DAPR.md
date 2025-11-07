@@ -24,10 +24,10 @@
 - Service talk to each other using the sidecar communication
 - Each sidecar handles discovery, retries...
 
-![Dapr-archetecture](Dapr-architecture.png)
+![Dapr-archetecture](media/Dapr-architecture.png)
 
 ### **Installing DAPR in Local Machine**
-- You can refer the [[offiicial website]] of dapr to download and install or refer the below commands.
+- You can refer the [official website](https://docs.dapr.io/getting-started/install-dapr-cli/) of dapr to download and install or refer the below commands.
 - Before installig DAPR make sure the Docker is installed in you machine.
 
 **Step 1: Downlod DAPR**
@@ -37,7 +37,7 @@ powershell -Command "iwr -useb https://raw.githubusercontent.com/dapr/cli/master
 ```
 
 Step 2: If installation fails or you see something as below,
-![Powershell-permission](powershell-permission.png)
+![Powershell-permission](media/powershell-permission.png)
 
 Try executing below command and install dapr cli again (skip if download is successful)
 ```bash
@@ -59,4 +59,4 @@ Step 5: Verify DAPR initialization is successfull
 dapr --version
 ```
 
-![Dapr version](dapr-version.png)
+![Dapr version](media/dapr-version.png)
