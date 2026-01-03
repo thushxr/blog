@@ -6,4 +6,4 @@
 
 ### Dotnet blogs
 - [EfCore.AsNoTracking - Ever seen a simple GET query update a database row](tech/dotnet/ef-core/AsNoTracking-EfCore.md)
-- [.NET Project Packaging Templates](tech/dotnet/good-practice/.NET Project Packaging (Templates).md)
+- [.NET Project Packaging Templates](tech/dotnet/good-practice/.NET%Project%Packaging%(Templates).md)
